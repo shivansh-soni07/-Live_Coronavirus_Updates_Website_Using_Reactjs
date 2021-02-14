@@ -1,0 +1,150 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+
+
+
+
+
+.nav{
+
+    width: 100vw;
+}
+
+
+.bg-danger {
+    background-color: #020202!important;
+}
+
+
+
+
+
+.navbar-dark .navbar-brand {
+    color: #fff;
+}
+.navbar-brand {
+    padding-top: -3.6875rem;
+    padding-bottom: -3.6875rem;
+    margin-right: 30rem;
+    font-size: 2rem;
+    text-decoration: none;
+    white-space: nowrap;
+    padding: 1rem;
+}
+
+
+
+
+
+@media (min-width: 992px){
+
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 3.5rem;
+    padding-left: 0.5rem;
+}
+}
+
+
+.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover {
+    color: #ff4a10;
+}
+
+
+.navbar-dark .navbar-brand {
+    color: #ff4b13;
+    font-family: 'Reggae One', cursive;
+}
+
+
+
+
+.MuiIcon-fontSizeInherit{
+    font-size: inherit;
+}
+
+
+
+
+
+
+.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color: #ff5722;
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(255 79 23);
+}
+
+
+
+.bg-light {
+    background-color: #020202!important;
+}
+
+
+
+
+
+p {
+    margin-top: 0px;
+    margin-bottom: 1rem;
+    color: #f44d16;
+    margin: auto;
+    margin-right: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    padding: 10px;
+    padding-left: 16px;
+}
+
+
+
+.navbar {
+    position: sticky;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    /* height: 96px; */
+}
+
+
+@media (prefers-reduced-motion: no-preference)
+:root {
+    /* scroll-behavior: smooth; */
+}
+
+.alert{
+
+margin-bottom: 0;
+
+
+}
+
+@media(max-width:600px){
+
+
+    .navbar-dark .navbar-brand {
+        font-size: 18px;
+        display: flex;
+        float: left;
+    }
+    .navi{
+        display: inline;
+        padding: 1px;
+    }
+
+}
+
+
+
+
+
+
+
+/* //////////////hamburger//////////// */
+
+

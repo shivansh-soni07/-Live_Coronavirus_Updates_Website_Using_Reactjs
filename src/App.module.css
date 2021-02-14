@@ -1,0 +1,34 @@
+
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 0px;
+  background: #fff0eb;  /* fallback for old browsers */
+
+} 
+
+.image {
+  width: 370px;
+  margin-top: 50px;
+}
+
+
+.giplogo {
+  width: 370px;
+  margin-top: 50px;
+  border-radius: 211px;
+  box-shadow: 2px 2px 5px black;
+}
+
+@media only screen and (max-width: 770px) {
+  .container {
+    margin: 0 10%;
+  }
+
+  .image {
+    width: 100%;
+  }
+ 
+}

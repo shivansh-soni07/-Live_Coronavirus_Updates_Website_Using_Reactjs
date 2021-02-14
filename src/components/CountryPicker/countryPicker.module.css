@@ -1,0 +1,55 @@
+.formControl {
+    width: 30%;
+    margin-bottom: 30px !important;
+  }
+  
+  option{
+    
+    border-radius: 12px;
+
+
+
+  }
+  @media only screen and (max-width: 770px) {
+    .container {
+      width: 100vw;
+    }
+  }
+  
+
+ 
+element.style {
+}
+<style>
+.MuiNativeSelect-select.MuiNativeSelect-select {
+    padding-right: 24px;
+}
+<style>
+.MuiNativeSelect-select {
+    cursor: pointer;
+    min-width: 16px;
+    user-select: none;
+    border-radius: 0;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+}
+
+.MuiInputBase-input {
+    font: inherit;
+    color: black;
+    width: 100%;
+    border: 1px solid black;
+    height: 1.1876em;
+    margin: 0;
+    display: block;
+    padding: 6px 0 7px;
+    min-width: 0;
+    background: none;
+    box-sizing: content-box;
+    animation-name: mui-auto-fill-cancel;
+    letter-spacing: inherit;
+    animation-duration: 10ms;
+    -webkit-tap-highlight-color: transparent;
+    font-weight: bold;
+    border-radius: 13px;
+}
