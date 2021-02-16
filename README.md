@@ -3,6 +3,8 @@
 
 This website is made mainly using  reactjs and api.
 
+# Link to Deployed App----------->  https://corona-update-shiv.herokuapp.com/
+
 
 It fetches info from api  and displays on webpage .
 
