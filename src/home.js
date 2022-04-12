@@ -24,7 +24,7 @@ function _home() {
 
   
 
-alert('If Using ,Mobile turn on Desktop Mode for Best Experience [click "ok" multiple times to open] ');
+ 
  
     return (
         <div className='home'>
