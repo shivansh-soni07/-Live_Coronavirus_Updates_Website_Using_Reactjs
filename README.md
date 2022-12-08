@@ -1,6 +1,7 @@
  Corona Update
  
- ->  Shows the current live , recovered and death cases of Covid19 of more than 120+ different countries .
+ ->  Shows the current live , recovered and death cases of Covid19 of more than 120+ different countries.
+ 
  ->  Uses a third party API to fetch the data and show it to the user.
 
 ![image](https://user-images.githubusercontent.com/72219885/206428003-0ec50b9a-8892-4148-b0ba-c5116ea64533.png)
